@@ -1,0 +1,147 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{Katsura}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KH}{%
+         family={Katsura},
+         familyi={K\bibinitperiod},
+         given={Hosho},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KH1}
+    \strng{fullhash}{KH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{abstract}{%
+    We study the sine-square deformed quantum XY chain with open boundary
+  conditions in which the interaction strength at the position x in the chain
+  of length L is proportional to the function. The model can be mapped onto a
+  free spinless fermion model with site-dependent …%
+    }
+    \field{number}{25}
+    \field{pages}{252001}
+    \field{title}{Exact ground state of the sine-square deformed XY spin chain}
+    \field{volume}{44}
+    \field{journaltitle}{Journal of Physics A: Mathematical and Theoretical}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Maruyama}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MI}{%
+         family={Maruyama},
+         familyi={M\bibinitperiod},
+         given={Isao},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=KH}{%
+         family={Katsura},
+         familyi={K\bibinitperiod},
+         given={Hosho},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Hikihara},
+         familyi={H\bibinitperiod},
+         given={Toshiya},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MIKHHT1}
+    \strng{fullhash}{MIKHHT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    We study free fermion systems with the sine-square deformation (SSD) in
+  which the energy scale of local Hamiltonians is modified according to the
+  scaling function f (x)= sin 2 [π L (x− 1 2)], where x is the position of
+  the local Hamiltonian and L is the length of the system in the x direction.
+  It has been revealed that when applied to one-dimensional (1D) critical
+  systems, the SSD realizes the translationally-invariant ground state which is
+  the same as that of the uniform periodic system. In this paper, we propose a
+  simple theory to explain how the SSD …%
+    }
+    \field{number}{16}
+    \field{pages}{165132}
+    \field{title}{Sine-square deformation of free fermion systems in one and
+  higher dimensions}
+    \field{volume}{84}
+    \field{journaltitle}{Physical Review B}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Manfred}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SM}{%
+         family={Sigrist},
+         familyi={S\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SM1}
+    \strng{fullhash}{SM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Lecture Notes Solid State Theory}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Xueda}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WX}{%
+         family={Wen},
+         familyi={W\bibinitperiod},
+         given={Xueda},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=WJQ}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Jie-Qiang},
+         giveni={J\bibinithyphendelim Q\bibinitperiod},
+      }}%
+    }
+    \keyw{Xueda_Wen}
+    \strng{namehash}{WXWJQ1}
+    \strng{fullhash}{WXWJQ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    Given a $ generic $ two-dimensional conformal field theory (CFT), we
+  propose an analytically solvable setup to study the Floquet dynamics of the
+  CFT, ie, the dynamics of a CFT subject to a periodic driving. A complete
+  phase diagram in the parameter space can be …%
+    }
+    \field{title}{Floquet conformal field theory}
+    \field{journaltitle}{arXiv preprint arXiv:1805.00031}
+    \field{year}{2018}
+  \endentry
+\enddatalist
+\endinput

@@ -1,0 +1,54 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Xueda}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0c784a46640fcc108c20926fe641d5e1}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Xueda},
+           giveni={X\bibinitperiod}}}%
+        {{hash=fd9ad5b770fddc9913979c2e69146ac2}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jie-Qiang},
+           giveni={J\bibinithyphendelim Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1800fe6e49bb7793b8230faca932d7d}
+      \strng{fullhash}{f1800fe6e49bb7793b8230faca932d7d}
+      \strng{bibnamehash}{f1800fe6e49bb7793b8230faca932d7d}
+      \strng{authorbibnamehash}{f1800fe6e49bb7793b8230faca932d7d}
+      \strng{authornamehash}{f1800fe6e49bb7793b8230faca932d7d}
+      \strng{authorfullhash}{f1800fe6e49bb7793b8230faca932d7d}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Given a $ generic $ two-dimensional conformal field theory (CFT), we propose an analytically solvable setup to study the Floquet dynamics of the CFT, ie, the dynamics of a CFT subject to a periodic driving. A complete phase diagram in the parameter space can be …}
+      \field{journaltitle}{arXiv preprint arXiv:1805.00031}
+      \field{title}{Floquet conformal field theory}
+      \field{year}{2018}
+      \keyw{Xueda_Wen}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
