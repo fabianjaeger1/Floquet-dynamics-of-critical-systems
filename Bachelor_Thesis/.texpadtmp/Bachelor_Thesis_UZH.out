@@ -1,29 +1,35 @@
-\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.2}{Theory}{}% 2
-\BOOKMARK [2][-]{subsection.2.1}{Tight-binding model}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{Solution to tight-binding model in 1D}{section.2}% 4
-\BOOKMARK [2][-]{subsection.2.3}{Tight-binding model in second quantized formalism}{section.2}% 5
-\BOOKMARK [3][-]{subsubsection.2.3.1}{Diagonalization of Hamiltonian with Periodic Boundary Conditions}{subsection.2.3}% 6
-\BOOKMARK [2][-]{subsection.2.4}{Solution to tight-binding model}{section.2}% 7
-\BOOKMARK [1][-]{section.3}{Boundary Conditions and Sine-Square Deformation}{}% 8
-\BOOKMARK [2][-]{subsection.3.1}{Sine-square deformation in momentum space}{section.3}% 9
-\BOOKMARK [3][-]{subsubsection.3.1.1}{In two-dimensions}{subsection.3.1}% 10
-\BOOKMARK [3][-]{subsubsection.3.1.2}{Energy corrections}{subsection.3.1}% 11
-\BOOKMARK [3][-]{subsubsection.3.1.3}{Periodic Boundary Conditions}{subsection.3.1}% 12
-\BOOKMARK [3][-]{subsubsection.3.1.4}{In one-dimension}{subsection.3.1}% 13
-\BOOKMARK [3][-]{subsubsection.3.1.5}{in Two-dimensions}{subsection.3.1}% 14
-\BOOKMARK [2][-]{subsection.3.2}{Sine-Squared deformation Hamiltonian}{section.3}% 15
-\BOOKMARK [2][-]{subsection.3.3}{Floquet Systems}{section.3}% 16
-\BOOKMARK [1][-]{section.4}{Quantum Quench}{}% 17
-\BOOKMARK [1][-]{section.5}{Floquet System}{}% 18
-\BOOKMARK [2][-]{subsection.5.1}{Ground state}{section.5}% 19
-\BOOKMARK [2][-]{subsection.5.2}{Generalization to n-cycles}{section.5}% 20
-\BOOKMARK [1][-]{section.6}{The quasi-particle picture}{}% 21
-\BOOKMARK [1][-]{section.7}{Theoretical Framework}{}% 22
-\BOOKMARK [2][-]{subsection.7.1}{Ground State}{section.7}% 23
-\BOOKMARK [2][-]{subsection.7.2}{Electrons filled on the left hand side of the chain}{section.7}% 24
-\BOOKMARK [2][-]{subsection.7.3}{Quantum Quench and Floquet Case}{section.7}% 25
-\BOOKMARK [3][-]{subsubsection.7.3.1}{Double Quench}{subsection.7.3}% 26
-\BOOKMARK [3][-]{subsubsection.7.3.2}{Generalization}{subsection.7.3}% 27
-\BOOKMARK [1][-]{section.8}{Floquet System in one dimension}{}% 28
-\BOOKMARK [1][-]{figure.caption.24}{Bibliography}{}% 29
+\BOOKMARK [0][-]{chapter.1}{Theory}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Tight-binding model}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Tight-binding model in second quantized formalism}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Momentum space representation}{section.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.3}{One dimensional chain}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.4}{Two-dimensional square lattice}{section.1.1}% 6
+\BOOKMARK [1][-]{section.1.2}{Boundary conditions and sine-square Deformation}{chapter.1}% 7
+\BOOKMARK [2][-]{subsection.1.2.1}{Sine-Square Deformation in momentum space}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.2}{Evolution of ground state from PBC to SSD}{section.1.2}% 9
+\BOOKMARK [1][-]{section.1.3}{Time evolution and Floquet theory}{chapter.1}% 10
+\BOOKMARK [0][-]{chapter.2}{Floquet system in one-dimension}{}% 11
+\BOOKMARK [1][-]{section.2.1}{Correlation function}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.1.1}{Ground state}{section.2.1}% 13
+\BOOKMARK [2][-]{subsection.2.1.2}{Single quench}{section.2.1}% 14
+\BOOKMARK [2][-]{subsection.2.1.3}{Double quench}{section.2.1}% 15
+\BOOKMARK [2][-]{subsection.2.1.4}{Generalization to n-cycles}{section.2.1}% 16
+\BOOKMARK [1][-]{section.2.2}{Conformal field theory}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.3}{Conformal group in two-dimensions}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.3.1}{Fields}{section.2.3}% 19
+\BOOKMARK [1][-]{section.2.4}{Floquet conformal field theory}{chapter.2}% 20
+\BOOKMARK [2][-]{subsection.2.4.1}{Conformal transformations of the Energy-Momentum Tensor}{section.2.4}% 21
+\BOOKMARK [1][-]{section.2.5}{Evolution of energy and energy density}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.6}{Entanglement entropy}{chapter.2}% 23
+\BOOKMARK [2][-]{subsection.2.6.1}{Reduced density matrix from the correlation function}{section.2.6}% 24
+\BOOKMARK [2][-]{subsection.2.6.2}{Evolution of entanglement entropy}{section.2.6}% 25
+\BOOKMARK [0][-]{chapter.3}{Floquet system in two dimensions}{}% 26
+\BOOKMARK [1][-]{section.3.1}{Total energy}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.2}{Energy density}{chapter.3}% 28
+\BOOKMARK [0][-]{chapter.4}{Conclusion}{}% 29
+\BOOKMARK [0][-]{chapter*.25}{Bibliography}{}% 30
+\BOOKMARK [0][-]{section*.26}{Appendix Appendices}{}% 31
+\BOOKMARK [0][-]{appendix.A}{Appendix Additional Information}{}% 32
+\BOOKMARK [1][-]{section.A.1}{Thermal initial state}{appendix.A}% 33
+\BOOKMARK [1][-]{section.A.2}{Witt Algebra}{appendix.A}% 34
+\BOOKMARK [0][-]{appendix.B}{Appendix Additional Plots}{}% 35

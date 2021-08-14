@@ -17,6 +17,431 @@
 \endgroup
 
 \datalist[entry]{nty/global//global/global}
+  \entry{Andersen}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AM}{%
+         family={Andersen},
+         familyi={A\bibinitperiod},
+         given={Malthe},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=NF}{%
+         family={Nørfjand},
+         familyi={N\bibinitperiod},
+         given={Frederik},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=ZNT}{%
+         family={Zinner},
+         familyi={Z\bibinitperiod},
+         given={Nikolaj\bibnamedelima Thomas},
+         giveni={N\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AMNFZNT1}
+    \strng{fullhash}{AMNFZNT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    Conformal field theories (CFT) play an important role in quantum field
+  theories as they allow for exact studies that are hard to access without the
+  conformal symmetries in place. A remarkable recent development is the
+  application of conformal field theory to periodically driven systems, the
+  so-called Floquet-driven CFTs. A number of recent works have found that there
+  are classes of periodically driven (1+ 1)-dimensional CFTs that can be
+  analytically solved, and that show both heating and nonheating phases, as
+  well as unusual properties in …%
+    }
+    \field{number}{5}
+    \field{pages}{056005}
+    \field{title}{Real-time correlation function of Floquet conformal fields}
+    \field{volume}{103}
+    \field{journaltitle}{Physical Review D}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Blumenhagen}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BR}{%
+         family={Blumenhagen},
+         familyi={B\bibinitperiod},
+         given={Ralph},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PE}{%
+         family={Plauschinn},
+         familyi={P\bibinitperiod},
+         given={Erik},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Science & Business Media}%
+    }
+    \keyw{Science}
+    \strng{namehash}{BRPE1}
+    \strng{fullhash}{BRPE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Based on class-tested notes, this text offers an introduction to Conformal
+  Field Theory with a special emphasis on computational techniques of relevance
+  for String Theory. It introduces Conformal Field Theory at a basic level,
+  Kac-Moody algebras, one-loop partition functions, Superconformal Field
+  Theories, Gepner Models and Boundary Conformal Field Theory. Eventually, the
+  concept of orientifold constructions is explained in detail for the example
+  of the bosonic string. In providing many detailed CFT calculations, this book
+  is ideal for students and scientists intending to become acquainted with CFT
+  techniques relevant for string theory but also for students and
+  non-specialists from related fields.%
+    }
+    \field{pages}{265}
+    \field{title}{Introduction to Conformal Field Theory}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Fan}{article}{}
+    \name{author}{4}{}{%
+      {{hash=FR}{%
+         family={Fan},
+         familyi={F\bibinitperiod},
+         given={Ruihua},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GY}{%
+         family={Gu},
+         familyi={G\bibinitperiod},
+         given={Yingfei},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=VA}{%
+         family={Vishwanath},
+         familyi={V\bibinitperiod},
+         given={Ashvin},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WX}{%
+         family={Wen},
+         familyi={W\bibinitperiod},
+         given={Xueda},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FR+1}
+    \strng{fullhash}{FRGYVAWX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{abstract}{%
+    We study the energy and entanglement dynamics of (1+ 1) D conformal field
+  theories (CFTs) under a Floquet drive with the sine-square deformed (SSD)
+  Hamiltonian. Previous work has shown that this model supports both a
+  nonheating and a heating phase. Here, we analytically establish several
+  robust and “superuniversal” features of the heating phase which rely on
+  conformal invariance but not on the details of the CFT involved. First, we
+  show the energy density is concentrated in two peaks in real space, a chiral
+  and an antichiral …%
+    }
+    \field{number}{3}
+    \field{pages}{031036}
+    \field{title}{Emergent spatial structure and entanglement localization in
+  floquet conformal field theory}
+    \field{volume}{10}
+    \field{journaltitle}{Physical Review X}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Francesco}{book}{}
+    \name{author}{3}{}{%
+      {{hash=FP}{%
+         family={Francesco},
+         familyi={F\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Mathieu},
+         familyi={M\bibinitperiod},
+         given={Pierre},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Senechal},
+         familyi={S\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Science, Business Media}%
+    }
+    \keyw{Science}
+    \strng{namehash}{FPMPSD1}
+    \strng{fullhash}{FPMPSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{abstract}{%
+    Filling an important gap in the literature, this comprehensive text
+  develops conformal field theory from first principles. The treatment is
+  self-contained, pedagogical, and exhaustive, and includes a great deal of
+  background material on quantum field theory, statistical mechanics, Lie
+  algebras and affine Lie algebras. The many exercises, with a wide spectrum of
+  difficulty and subjects, complement and in many cases extend the text. The
+  text is thus not only an excellent tool for classroom teaching but also for
+  individual study. Intended primarily for graduate students and researchers in
+  theoretical high-energy physics, mathematical physics, condensed matter
+  theory, statistical physics, the book will also be of interest in other areas
+  of theoretical physics and mathematics. It will prepare the reader for
+  original research in this very active field of theoretical and mathematical
+  physics.%
+    }
+    \field{pages}{890}
+    \field{title}{Conformal Field Theory}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Gendiar2}{article}{}
+    \name{author}{4}{}{%
+      {{hash=GA}{%
+         family={Gendiar},
+         familyi={G\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+      {{hash=DM}{%
+         family={Daniška},
+         familyi={D\bibinitperiod},
+         given={M},
+         giveni={M},
+      }}%
+      {{hash=LY}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Y},
+         giveni={Y},
+      }}%
+      {{hash=NT}{%
+         family={Nishino},
+         familyi={N\bibinitperiod},
+         given={T},
+         giveni={T},
+      }}%
+    }
+    \strng{namehash}{GA+1}
+    \strng{fullhash}{GADMLYNT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    We investigate the effect of a nonuniform deformation applied to
+  one-dimensional (1D) quantum systems, where the local energy scale is
+  proportional to gj=[sin (j π/N)] m determined by a positive integer m, site
+  index 1⩽ j⩽ N− 1, and system size N. This deformation introduces a
+  smooth boundary to systems with open-boundary conditions. When m⩾ 2, the
+  leading 1/N correction to the ground-state energy per bond e 0 (N) vanishes
+  and one is left with a 1/N 2 correction, the same as with periodic boundary
+  conditions. In …%
+    }
+    \field{number}{5}
+    \field{pages}{052118}
+    \field{title}{Suppression of finite-size effects in one-dimensional
+  correlated systems}
+    \field{volume}{83}
+    \field{journaltitle}{Physical Review A}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Gendiar}{article}{}
+    \name{author}{3}{}{%
+      {{hash=GA}{%
+         family={Gendiar},
+         familyi={G\bibinitperiod},
+         given={Andrej},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Krcmar},
+         familyi={K\bibinitperiod},
+         given={Roman},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Nishino},
+         familyi={N\bibinitperiod},
+         given={Tomotoshi},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GAKRNT1}
+    \strng{fullhash}{GAKRNT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    Abstract System-size dependence of the ground-state energy EN is
+  investigated for N-site one-dimensional (1D) quantum systems with open
+  boundary condition, where the interaction strength decreases towards the both
+  ends of the system. For the spinless Fermions on the 1D lattice we have
+  considered, it is shown that the finite-size correction to the energy per
+  site, which is defined as EN/N− lim N→∞ EN/N, is of the order of 1/N 2
+  when the reduction factor of the interaction is expressed by a sinusoidal
+  function. We discuss the …%
+    }
+    \field{number}{4}
+    \field{pages}{953–967}
+    \field{title}{Spherical deformation for one-dimensional quantum systems}
+    \field{volume}{122}
+    \field{journaltitle}{Progress of Theoretical Physics}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Ginsparg}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GP}{%
+         family={Ginsparg},
+         familyi={G\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GP1}
+    \strng{fullhash}{GP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    These lectures consisted of an elementary introduction to conformal field
+  theory, with some applications to statistical mechanical systems, and fewer
+  to string theory. Contents: 1. Conformal theories in d dimensions 2.
+  Conformal theories in 2 dimensions 3. The central …%
+    }
+    \field{title}{Applied conformal field theory}
+    \field{journaltitle}{arXiv preprint hep-th/9108028}
+    \field{year}{1988}
+  \endentry
+
+  \entry{Girvin}{book}{}
+    \name{author}{2}{}{%
+      {{hash=GSM}{%
+         family={Girvin},
+         familyi={G\bibinitperiod},
+         given={Steven\bibnamedelima M.},
+         giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=YK}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Kun},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Cambridge University Press}%
+    }
+    \keyw{Science}
+    \strng{namehash}{GSMYK1}
+    \strng{fullhash}{GSMYK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    Comprehensive and accessible coverage from the basics to advanced topics in
+  modern quantum condensed matter physics.%
+    }
+    \field{pages}{808}
+    \field{title}{Modern Condensed Matter Physics}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Hikihara}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HT}{%
+         family={Hikihara},
+         familyi={H\bibinitperiod},
+         given={Toshiya},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Nishino},
+         familyi={N\bibinitperiod},
+         given={Tomotoshi},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HTNT1}
+    \strng{fullhash}{HTNT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    We study one-dimensional quantum critical spin systems with sine-square
+  deformation, in which the energy scale in the Hamiltonian at position x is
+  modified by the function fx= sin 2 [π L (x− 1 2)], where L is the length
+  of the system. By investigating the entanglement entropy …%
+    }
+    \field{number}{6}
+    \field{pages}{060414}
+    \field{title}{Connecting distant ends of one-dimensional critical systems
+  by a sine-square deformation}
+    \field{volume}{83}
+    \field{journaltitle}{Physical Review B}
+    \field{year}{2011}
+  \endentry
+
+  \entry{Hotta}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HC}{%
+         family={Hotta},
+         familyi={H\bibinitperiod},
+         given={Chisa},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=NS}{%
+         family={Nishimoto},
+         familyi={N\bibinitperiod},
+         given={Satoshi},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SN}{%
+         family={Shibata},
+         familyi={S\bibinitperiod},
+         given={Naokazu},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HCNSSN1}
+    \strng{fullhash}{HCNSSN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    The grand canonical numerical analysis recently developed for quantum
+  many-body systems on a finite cluster [C. Hotta and N. Shibata, Phys. Rev. B
+  86, 041108 (R)(2012)] is the technique to efficiently obtain the physical
+  quantities in an applied field. There, the …%
+    }
+    \field{number}{11}
+    \field{pages}{115128}
+    \field{title}{Grand canonical finite size numerical approaches in one and
+  two dimensions: real space energy renormalization and edge state generation}
+    \field{volume}{87}
+    \field{journaltitle}{Physical Review B}
+    \field{year}{2013}
+  \endentry
+
   \entry{Katsura}{article}{}
     \name{author}{1}{}{%
       {{hash=KH}{%
@@ -44,6 +469,100 @@
     \field{volume}{44}
     \field{journaltitle}{Journal of Physics A: Mathematical and Theoretical}
     \field{year}{2011}
+  \endentry
+
+  \entry{Katsura2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KH}{%
+         family={Katsura},
+         familyi={K\bibinitperiod},
+         given={Hosho},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KH1}
+    \strng{fullhash}{KH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{abstract}{%
+    We study solvable spin chains, one-dimensional massless Dirac fermions and
+  conformal field theories (CFTs) with sine-square deformation (SSD), in which
+  the Hamiltonian density is modulated by the function f (x)= sin 2 (πx/ℓ),
+  where x is the position and ℓ is the length of the system. For the XY chain
+  and the transverse field Ising chain at criticality, it is shown that the
+  ground state of an open system with SSD is identical to that of a uniform
+  chain with periodic boundary conditions. The same holds for the massless
+  Dirac fermions with SSD …%
+    }
+    \field{number}{11}
+    \field{pages}{115003}
+    \field{title}{Sine-square deformation of solvable spin chains and conformal
+  field theories}
+    \field{volume}{45}
+    \field{journaltitle}{Journal of Physics A: Mathematical and Theoretical}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Lapierre}{article}{}
+    \name{author}{6}{}{%
+      {{hash=LB}{%
+         family={Lapierre},
+         familyi={L\bibinitperiod},
+         given={Bastien},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Choo},
+         familyi={C\bibinitperiod},
+         given={Kenny},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=TC}{%
+         family={Tauber},
+         familyi={T\bibinitperiod},
+         given={Clément},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Tiwari},
+         familyi={T\bibinitperiod},
+         given={Apoorv},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NT}{%
+         family={Neupert},
+         familyi={N\bibinitperiod},
+         given={Titus},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=CR}{%
+         family={Chitra},
+         familyi={C\bibinitperiod},
+         given={Ramasubramanian},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LB+1}
+    \strng{fullhash}{LBCKTCTANTCR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    While driven interacting quantum matter is generically subject to heating
+  and scrambling, certain classes of systems evade this paradigm. We study such
+  an exceptional class in periodically driven critical (1+ 1)-dimensional
+  systems with a spatially modulated, but disorder-free time evolution
+  operator. Instead of complete scrambling, the excitations of the system
+  remain well-defined. Their propagation is analogous to the evolution along
+  light cones in a curved space-time obtained by two Schwarzschild black holes.
+  The Hawking …%
+    }
+    \field{title}{Emergent Black Hole Dynamics in Critical Floquet Systems}
+    \field{journaltitle}{arXiv preprint arXiv:1909.08618}
+    \field{year}{2019}
   \endentry
 
   \entry{Maruyama}{article}{}
@@ -92,6 +611,248 @@
     \field{year}{2011}
   \endentry
 
+  \entry{Neupert2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NFMHT}{%
+         family={Neupert},
+         familyi={N\bibinitperiod},
+         suffix={Titus},
+         suffixi={T\bibinitperiod},
+         given={Fischer Mark\bibnamedelima H},
+         giveni={F\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim
+  H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NTFMH1}
+    \strng{fullhash}{NTFMH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Lecture Notes: Computational Quantum Physics}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Titus}{article}{}
+    \name{author}{1}{}{%
+      {{hash=NT}{%
+         family={Neupert},
+         familyi={N\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NT1}
+    \strng{fullhash}{NT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Introduction to Condensed Matter Theory}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Peschel_Ingo-Reduced_density_matrices_and_entanglement_entropy_in_free_lattice_models}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PI}{%
+         family={Peschel},
+         familyi={P\bibinitperiod},
+         given={Ingo},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+  \keyw{Peschel_Ingo-Reduced_density_matrices_and_entanglement_entropy_in_free_lattice_models}
+    \strng{namehash}{PI1}
+    \strng{fullhash}{PI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{abstract}{%
+    It is shown that for solvable fermionic and bosonic lattice systems, the
+  reduced density matrices can be determined from the properties of the
+  correlation functions. This provides the simplest way to these quantities
+  which are used in the density-matrix renormalization group method.%
+    }
+    \field{number}{14}
+    \field{pages}{L205}
+    \field{title}{Calculation of reduced density matrices from correlation
+  functions}
+    \field{volume}{36}
+    \field{journaltitle}{Journal of Physics A: Mathematical and General}
+    \field{year}{2003}
+  \endentry
+
+  \entry{Peschel2}{article}{}
+    \name{author}{1}{}{%
+      {{hash=PI}{%
+         family={Peschel},
+         familyi={P\bibinitperiod},
+         given={Ingo},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PI1}
+    \strng{fullhash}{PI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{abstract}{%
+    The five lectures introduce to the description of entanglement in
+  many-particle systems and review the ground-state entanglement features of
+  standard solvable lattice models. This is done using a thermodynamic
+  formulation in which the eigenvalue spectrum of a certain …%
+    }
+    \field{number}{3-4}
+    \field{pages}{267–291}
+    \field{title}{Entanglement in solvable many-particle models}
+    \field{volume}{42}
+    \field{journaltitle}{Brazilian Journal of Physics}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Peschel_Ingo-Calculation_of_reduced_density_matrices_from_correlation_functions}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PI}{%
+         family={Peschel},
+         familyi={P\bibinitperiod},
+         given={Ingo},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=EV}{%
+         family={Eisler},
+         familyi={E\bibinitperiod},
+         given={Viktor},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+  \keyw{Peschel_Ingo-Calculation_of_reduced_density_matrices_from_correlation_functions}
+    \strng{namehash}{PIEV1}
+    \strng{fullhash}{PIEV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{abstract}{%
+    We review the properties of reduced density matrices for free fermionic or
+  bosonic many-particle systems in their ground state. Their basic feature is
+  that they have a thermal form and thus lead to a quasi-thermodynamic problem
+  with a certain free-particle Hamiltonian. We discuss the derivation of this
+  result, the character of the Hamiltonian and its eigenstates, the
+  single-particle spectra and the full spectra, the resulting entanglement and
+  in particular the entanglement entropy. This is done for various one-and
+  two-dimensional situations …%
+    }
+    \field{number}{50}
+    \field{pages}{504003}
+    \field{title}{Reduced density matrices and entanglement entropy in free
+  lattice models}
+    \field{volume}{42}
+    \field{journaltitle}{Journal of physics a: mathematical and theoretical}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Potter}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PAC}{%
+         family={Potter},
+         familyi={P\bibinitperiod},
+         given={Andrew\bibnamedelima C},
+         giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=MT}{%
+         family={Morimoto},
+         familyi={M\bibinitperiod},
+         given={Takahiro},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=VA}{%
+         family={Vishwanath},
+         familyi={V\bibinitperiod},
+         given={Ashvin},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PACMTVA1}
+    \strng{fullhash}{PACMTVA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \field{abstract}{%
+    Periodic driving of a quantum system can enable new topological phases with
+  no analog in static systems. In this paper, we systematically classify
+  one-dimensional topological and symmetry-protected topological (SPT) phases
+  in interacting fermionic and bosonic quantum systems subject to periodic
+  driving, which we dub Floquet SPTs (FSPTs). For physical realizations of
+  interacting FSPTs, many-body localization by disorder is a crucial
+  ingredient, required to obtain a stable phase that does not catastrophically
+  heat to infinite temperature …%
+    }
+    \field{number}{4}
+    \field{pages}{041001}
+    \field{title}{Classification of interacting topological Floquet phases in
+  one dimension}
+    \field{volume}{6}
+    \field{journaltitle}{Physical Review X}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Santoro}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SGE}{%
+         family={Santoro},
+         familyi={S\bibinitperiod},
+         given={Giuseppe\bibnamedelima E},
+         giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SGE1}
+    \strng{fullhash}{SGE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    The term “Floquet” is associated to periodicity in time. More
+  specifically, in a classical context the Floquet theory was introduced to
+  describe the behaviour of a set of linear dif- ferential equations with a
+  time-periodic coefficients, which was in turn originating from the problem of
+  the stability …%
+    }
+    \field{title}{Introduction to Floquet}
+  \endentry
+
+  \entry{Schellekens}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={Schellekens},
+         familyi={S\bibinitperiod},
+         given={A.N},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SA1}
+    \strng{fullhash}{SA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    This is the version of the lectures as they were distributed after the
+  school, with corrections, additional comments and answers to questions. This
+  version will also contain some additional technical remarks that were
+  suppressed in the version distributed at the school. These lecture notes are
+  available via anonymous ftp at the address: ftp. nikhef. nl, in the
+  directory/pub/aio school. The present version is not intended for
+  distribution, and is not intended as a historical review of the subject%
+    }
+    \field{title}{Conformal field theory}
+    \field{journaltitle}{Lecture Notes}
+    \field{year}{1995}
+  \endentry
+
   \entry{Manfred}{article}{}
     \name{author}{1}{}{%
       {{hash=SM}{%
@@ -109,6 +870,96 @@
     \field{sortinithash}{S}
     \field{title}{Lecture Notes Solid State Theory}
     \field{year}{2014}
+  \endentry
+
+  \entry{Simon}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SSH}{%
+         family={Simon},
+         familyi={S\bibinitperiod},
+         given={Steven\bibnamedelima H.},
+         giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \keyw{Science}
+    \strng{namehash}{SSH1}
+    \strng{fullhash}{SSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    This is a first undergraduate textbook in Solid State Physics or Condensed
+  Matter Physics. While most textbooks on the subject are extremely dry, this
+  book is written to be much more exciting, inspiring, and entertaining.%
+    }
+    \field{pages}{290}
+    \field{title}{The Oxford Solid State Basics}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Singleton}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SJ}{%
+         family={Singleton},
+         familyi={S\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press}%
+    }
+    \keyw{Science}
+    \strng{namehash}{SJ1}
+    \strng{fullhash}{SJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Band theory is evident all around us and yet is one of the most stringent
+  tests of quantum mechanics. This textbook, one of the first in the new Oxford
+  Master Series in Physics, attempts to reveal in a quantitative and fairly
+  rigorous fashion how band theory leads to the everyday properties of
+  materials. The book is suitable for final-year undergraduate and first-year
+  graduate students in physics and materials science.%
+    }
+    \field{pages}{222}
+    \field{title}{Band Theory and Electronic Properties of Solids}
+    \field{year}{2001}
+  \endentry
+
+  \entry{Utermohlen}{article}{}
+    \name{author}{1}{}{%
+      {{hash=UF}{%
+         family={Utermohlen},
+         familyi={U\bibinitperiod},
+         given={Franz},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{UF1}
+    \strng{fullhash}{UF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{U}
+    \field{sortinithash}{U}
+    \field{abstract}{%
+    Let’s now consider the case where these non-interacting fermions live on
+  a Bravais 2 crystal lattice with a potential well located at each of the
+  lattice sites. Note that these potential wells will change the energy
+  dispersion relation of the fermions, so tij will also change too; we will
+  refer to this new parameter as the hopping amplitude tij. The fermions will
+  now tend to become more localized to the lattice sites and it will be harder
+  for a fermion to “hop” to sites that are far away (tij will be very small
+  if ri-rj is large). In the tight-binding approximation, we …%
+    }
+    \field{title}{Tight-Binding Model in the Second Quantization Formalism}
+    \field{year}{2018}
   \endentry
 
   \entry{Xueda}{article}{}
